@@ -1,5 +1,4 @@
 //¿Cúal de las cadenas de texto es alfabéticamente la primera? ¿En qué posición está? 
-//Con los datos del ejemplo la respuesta sería:Anna, en posición 2. Cadena(0).compareTo(cadena(1))
 public class Nombre2 {
 
 	public static void main(String[] args) {
